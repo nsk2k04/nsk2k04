@@ -3,7 +3,7 @@
 📍 **Location:** Chennai, Tamil Nadu  
 
 🎓 **Education:**  
-- **B.Tech in Information Technology** (2022–2026) | St. Joseph’s College of Engineering | CGPA: 8.04  
+- **B.Tech in Information Technology** (2022–2026) | St. Joseph’s College of Engineering
 
 💻 **Skills & Interests:**  
 - **Programming:** Java, Python, HTML, CSS, JavaScript  
